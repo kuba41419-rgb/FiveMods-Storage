@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- by wojna#3683 -->
+
+<CLensFlare>
+  <arrFlareTypeFX>
+    <Item>
+      <arrFlareFX>
+        <Item>
+          <fDistFromLight value="-2.400000" />
+          <fSize value="0.020000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="12.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF8AFF7A" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.400000" />
+          <fSize value="0.070000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="2.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF33DAFF" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.300000" />
+          <fSize value="0.015000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="13.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF1FDAFF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.225000" />
+          <fSize value="0.005000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="48.799999" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF3D64FF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.200000" />
+          <fSize value="0.025000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="100.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF0033FF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.175000" />
+          <fSize value="0.013000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="15.575000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF5E7EFF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.156000" />
+          <fSize value="0.004800" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="200.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF0000FF" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.152000" />
+          <fSize value="0.004400" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="200.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF0026FF" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.150000" />
+          <fSize value="0.007500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="200.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF0033FF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.149000" />
+          <fSize value="0.003500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="170.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF006AFF" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.146000" />
+          <fSize value="0.003000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="150.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF00BFFF" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.143000" />
+          <fSize value="0.002600" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="100.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF00FFA6" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.140000" />
+          <fSize value="0.002400" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="80.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF00FF40" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.137000" />
+          <fSize value="0.002300" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="70.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF22FF00" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.134000" />
+          <fSize value="0.002400" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="60.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFAAFF00" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.131000" />
+          <fSize value="0.002500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="1.355000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFE030" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.128000" />
+          <fSize value="0.002700" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="40.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="1.355000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFA245" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-2.125000" />
+          <fSize value="0.003000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="1.200000" />
+          <fAnimorphicScaleFactorV value="0.022500" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFF3D3D" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.070000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="35.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="3.495000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF204BFF" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.030000" />
+          <fWidthRotate value="0.500000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="1.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF204BFC" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.500000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="1.900000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF204BFF" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.030000" />
+          <fWidthRotate value="0.250000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="1.000000" />
+          <fAnimorphicScaleFactorU value="1.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF204BFF" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.030000" />
+          <fWidthRotate value="-0.250000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="2.900000" />
+          <fAnimorphicScaleFactorU value="1.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF204BFF" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.250000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="2.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF204BFC" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="-0.250000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="2.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF204BFC" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.100000" />
+          <fWidthRotate value="0.050000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="3" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.000000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="100.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="3" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.015000" />
+          <fWidthRotate value="0.500000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.925000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.015000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="5.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="5.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.010000" />
+          <fWidthRotate value="-0.250000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.565000" />
+          <fAnimorphicScaleFactorV value="0.070000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.010000" />
+          <fWidthRotate value="0.250000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="25.975000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.565000" />
+          <fAnimorphicScaleFactorV value="0.070000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.015000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="2.340000" />
+          <fAnimorphicScaleFactorV value="0.045000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.000000" />
+          <fSize value="0.030000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="30.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="5.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF204BFF" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.025000" />
+          <fSize value="1.522000" />
+          <fWidthRotate value="0.072500" />
+          <fDistanceInnerOffset value="0.135000" />
+          <fIntensityScale value="1.000000" />
+          <fIntensityFade value="1.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="2" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.100000" />
+          <fSize value="0.266000" />
+          <fWidthRotate value="0.100000" />
+          <fDistanceInnerOffset value="0.145000" />
+          <fIntensityScale value="1.000000" />
+          <fIntensityFade value="1.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="2" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="0.100000" />
+          <fSize value="0.623500" />
+          <fWidthRotate value="0.377500" />
+          <fDistanceInnerOffset value="0.300000" />
+          <fIntensityScale value="0.500000" />
+          <fIntensityFade value="0.500000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="2" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.900000" />
+          <fSize value="0.012000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFF4512" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.898000" />
+          <fSize value="0.012000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="5.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF74FF24" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.890000" />
+          <fSize value="0.003000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="15.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFA3FFC6" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.875000" />
+          <fSize value="0.004000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF4DFFC3" />
+          <nTexture value="1" />
+          <nSubGroup value="2" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.860000" />
+          <fSize value="0.006000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="2.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFF4512" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.859000" />
+          <fSize value="0.006000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="2.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF12FF41" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.845000" />
+          <fSize value="0.003000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="4.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFA0FF12" />
+          <nTexture value="1" />
+          <nSubGroup value="3" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.845000" />
+          <fSize value="0.022000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="1.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFEBFF12" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.837000" />
+          <fSize value="0.005000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF80FF9F" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.830000" />
+          <fSize value="0.001500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF80FF9F" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.800000" />
+          <fSize value="0.003000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF80FF9F" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.765000" />
+          <fSize value="0.010000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="2.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.740000" />
+          <fSize value="0.007000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="2.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFC3FF00" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.740000" />
+          <fSize value="0.000700" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.740000" />
+          <fSize value="0.005000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF4D8BFF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.739000" />
+          <fSize value="0.001200" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.738000" />
+          <fSize value="0.001700" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.737000" />
+          <fSize value="0.002100" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="5.100000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFFFFF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.730000" />
+          <fSize value="0.007000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="4.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF69FAAF" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.710000" />
+          <fSize value="0.009000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF21D3FF" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.700000" />
+          <fSize value="0.001000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFF0000" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.699000" />
+          <fSize value="0.000700" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFF7300" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.698000" />
+          <fSize value="0.000700" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="30.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFD900" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.697000" />
+          <fSize value="0.000900" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="40.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFB2FF00" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.696000" />
+          <fSize value="0.001000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="40.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF59FF00" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.695000" />
+          <fSize value="0.001000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="50.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF00FF26" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.694000" />
+          <fSize value="0.001000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="100.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF00FFA6" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.693000" />
+          <fSize value="0.001300" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="33.400002" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF00FBFF" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.692000" />
+          <fSize value="0.001000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="200.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF00A2FF" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.691000" />
+          <fSize value="0.001500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="200.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF0066FF" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.690000" />
+          <fSize value="0.002000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="200.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF0008FF" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.687000" />
+          <fSize value="0.015000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF0A9DFF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.685000" />
+          <fSize value="0.015000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="30.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF2129FF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.650000" />
+          <fSize value="0.007000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="2.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFC3FF00" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.625000" />
+          <fSize value="0.005000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="2.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF00FFF2" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.625000" />
+          <fSize value="0.015000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="5.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF0077FF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.600000" />
+          <fSize value="0.010000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="2.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF6EFF00" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.575000" />
+          <fSize value="0.005000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.500000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFE8FF78" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.575000" />
+          <fSize value="0.003000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.500000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFE8FF78" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.575000" />
+          <fSize value="0.003000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="0.500000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFE8FF78" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.412000" />
+          <fSize value="0.003500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="40.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF0A0AFF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.410000" />
+          <fSize value="0.003000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="30.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF321BFA" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.408000" />
+          <fSize value="0.002800" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="15.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF7D2FFA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.408000" />
+          <fSize value="0.002900" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="20.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF622FFA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.406000" />
+          <fSize value="0.002700" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="10.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF9F2FFA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.404000" />
+          <fSize value="0.002600" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="5.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFD43CFA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.402000" />
+          <fSize value="0.002500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="4.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFA4BF7" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.400000" />
+          <fSize value="0.002400" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFA6BCF" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.398000" />
+          <fSize value="0.002300" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFA7DC0" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.396000" />
+          <fSize value="0.002200" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFC95B9" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.407000" />
+          <fSize value="0.020000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="5.000000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.370000" />
+          <fAnimorphicScaleFactorV value="0.022500" />
+          <bAnimorphicBehavesLikeArtefact value="true" />
+          <color value="0xFF0D39FF" />
+          <nTexture value="0" />
+          <nSubGroup value="0" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.394000" />
+          <fSize value="0.002100" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFC9AB3" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.392000" />
+          <fSize value="0.002000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFBABF" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.390000" />
+          <fSize value="0.002100" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFC9BA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.388000" />
+          <fSize value="0.002200" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFD3BA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.386000" />
+          <fSize value="0.002300" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFDBBA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.384000" />
+          <fSize value="0.002400" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFE0BA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.382000" />
+          <fSize value="0.002500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFE5BA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.380000" />
+          <fSize value="0.002600" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFEBBA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.378000" />
+          <fSize value="0.002700" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFFF7BA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.376000" />
+          <fSize value="0.003500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFEFFBA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.375000" />
+          <fSize value="0.010000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFBAFFBC" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.374000" />
+          <fSize value="0.004000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFEFFFBA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.373000" />
+          <fSize value="0.008500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFBAFFBC" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.372000" />
+          <fSize value="0.007500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFBAFFBC" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.372000" />
+          <fSize value="0.004500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFE0FFBA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.370000" />
+          <fSize value="0.006000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFBAFFBC" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.370000" />
+          <fSize value="0.005000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFD6FFBA" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.360000" />
+          <fSize value="0.035000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="4.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF00B7FF" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.355000" />
+          <fSize value="0.035000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="8.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF0059FF" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.350000" />
+          <fSize value="0.035000" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="4.000000" />
+          <fIntensityFade value="-431602080.000000" />
+          <fAnimorphicScaleFactorU value="-431602080.000000" />
+          <fAnimorphicScaleFactorV value="-431602080.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFF0059FF" />
+          <nTexture value="1" />
+          <nSubGroup value="4" />
+        </Item>
+        <Item>
+          <fDistFromLight value="-1.295000" />
+          <fSize value="0.267500" />
+          <fWidthRotate value="0.000000" />
+          <fDistanceInnerOffset value="0.000000" />
+          <fIntensityScale value="3.600000" />
+          <fIntensityFade value="0.000000" />
+          <fAnimorphicScaleFactorU value="0.000000" />
+          <fAnimorphicScaleFactorV value="0.000000" />
+          <bAnimorphicBehavesLikeArtefact value="false" />
+          <color value="0xFFFF681C" />
+          <nTexture value="1" />
+          <nSubGroup value="1" />
+        </Item>
+      </arrFlareFX>
+    </Item>
+  </arrFlareTypeFX>
+  <fSunVisibilityFactor value="0.400000" />
+  <iSunVisibilityAlphaClip value="10" />
+  <fSunFogFactor value="0.500000" />
+  <fChromaticTexUSize value="0.050000" />
+  <fExposureScaleFactor value="12.557490" />
+  <fExposureIntensityFactor value="0.010584" />
+  <fExposureRotationFactor value="0.500000" />
+  <fChromaticFadeFactor value="0.750000" />
+  <fArtefactDistanceFadeFactor value="2.000000" />
+  <fArtefactRotationFactor value="20.000000" />
+  <fArtefactScaleFactor value="6.000000" />
+  <fArtefactGradientFactor value="0.000000" />
+  <fCoronaDistanceAdditionalSize value="0.300000" />
+  <fMinExposureScale value="0.500000" />
+  <fMaxExposureScale value="1.000000" />
+  <fMinExposureIntensity value="0.500000" />
+  <fMaxExposureIntensity value="1.500000" />
+</CLensFlare>

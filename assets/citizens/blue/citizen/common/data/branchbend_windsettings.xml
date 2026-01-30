@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CCustomShaderEffectTree__BRANCH_BEND_AND_TRI_WAVE_MICRO_MOVEMENTS_GLOBALS>
+  <umLowWind value="0.000000" />
+  <umHighWind value="0.000001" />
+  <WindVariationRange value="0.000000" />
+  <WindVariationScales content="float_array">
+    1.000000	
+    0.862000	
+    0.754000	
+  </WindVariationScales>
+  <WindVariationBlendWaveFreq content="float_array">
+    0.123000	
+    0.074000	
+  </WindVariationBlendWaveFreq>
+  <WindSmoothChangeControlPointInterval value="0.000001" />
+  <WindSpeedSoftClamp value="0.000000" />
+  <WindSpeedSoftClampUnrestrictedProportion value="0.000000" />
+  <AlphaCardOnlyGlobalStiffness value="0.000000" />
+</CCustomShaderEffectTree__BRANCH_BEND_AND_TRI_WAVE_MICRO_MOVEMENTS_GLOBALS>

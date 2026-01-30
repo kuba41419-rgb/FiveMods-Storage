@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Ggtr_123#1882-->
+<CContentsOfWeatherXmlFile>
+  <WeatherTypes>
+  <Item>
+    <Name>EXTRASUNNY</Name>
+    <TimeCycleFilename>COMMON:/DATA/TIMECYCLE/Ggtr_123.XML</TimeCycleFilename>
+    <CloudSettingsName>HEAVYclouds</CloudSettingsName>
+  </Item>
+  </WeatherTypes>
+  <WeatherCycles>
+  <Item>
+    <CycleName>EXTRASUNNY</CycleName>
+  </Item>
+  </WeatherCycles>
+</CContentsOfWeatherXmlFile>
