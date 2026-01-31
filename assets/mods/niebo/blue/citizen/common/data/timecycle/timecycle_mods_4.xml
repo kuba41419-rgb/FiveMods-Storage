@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- neiv PACKv5 -->
+<timecycle_modifier_data version="1.000000">
+  <modifier name="hud_def_desat_cold_kill" numMods="29" userFlags="0">
+    <postfx_correct_col_r>1.000 0.000</postfx_correct_col_r>
+    <postfx_correct_col_g>1.000 0.000</postfx_correct_col_g>
+    <postfx_correct_col_b>1.000 0.000</postfx_correct_col_b>
+    <postfx_correct_cutoff>0.000 0.000</postfx_correct_cutoff>
+    <postfx_shift_col_r>0.220 1.000</postfx_shift_col_r>
+    <postfx_shift_col_g>0.667 1.000</postfx_shift_col_g>
+    <postfx_shift_col_b>1.000 1.000</postfx_shift_col_b>
+    <postfx_shift_cutoff>0.150 0.000</postfx_shift_cutoff>
+    <postfx_tonemap_filmic_override_dark>1.000 0.000</postfx_tonemap_filmic_override_dark>
+    <postfx_tonemap_filmic_exposure_dark>1.000 0.000</postfx_tonemap_filmic_exposure_dark>
+    <postfx_tonemap_filmic_a>4.000 0.000</postfx_tonemap_filmic_a>
+    <postfx_tonemap_filmic_b>0.300 0.000</postfx_tonemap_filmic_b>
+    <postfx_tonemap_filmic_c>0.640 0.000</postfx_tonemap_filmic_c>
+    <postfx_tonemap_filmic_d>0.384 0.000</postfx_tonemap_filmic_d>
+    <postfx_tonemap_filmic_e>0.010 0.000</postfx_tonemap_filmic_e>
+    <postfx_tonemap_filmic_f>0.100 0.000</postfx_tonemap_filmic_f>
+    <postfx_tonemap_filmic_w>4.000 0.000</postfx_tonemap_filmic_w>
+    <postfx_tonemap_filmic_override_bright>1.000 0.000</postfx_tonemap_filmic_override_bright>
+    <postfx_tonemap_filmic_exposure_bright>-2.000 0.000</postfx_tonemap_filmic_exposure_bright>
+    <postfx_tonemap_filmic_a_bright>0.450 0.000</postfx_tonemap_filmic_a_bright>
+    <postfx_tonemap_filmic_b_bright>0.200 0.000</postfx_tonemap_filmic_b_bright>
+    <postfx_tonemap_filmic_c_bright>0.200 0.000</postfx_tonemap_filmic_c_bright>
+    <postfx_tonemap_filmic_d_bright>0.200 0.000</postfx_tonemap_filmic_d_bright>
+    <postfx_tonemap_filmic_e_bright>0.010 0.000</postfx_tonemap_filmic_e_bright>
+    <postfx_tonemap_filmic_f_bright>0.300 0.000</postfx_tonemap_filmic_f_bright>
+    <postfx_tonemap_filmic_w_bright>4.000 0.000</postfx_tonemap_filmic_w_bright>
+    <postfx_vignetting_intensity>1.000 0.000</postfx_vignetting_intensity>
+    <postfx_vignetting_radius>11.500 0.000</postfx_vignetting_radius>
+    <postfx_vignetting_contrast>0.041 0.000</postfx_vignetting_contrast>
+    <postfx_vignetting_col_r>0.145 0.000</postfx_vignetting_col_r>
+    <postfx_vignetting_col_g>0.514 0.000</postfx_vignetting_col_g>
+    <postfx_vignetting_col_b>1.000 0.000</postfx_vignetting_col_b>
+  </modifier>
+</timecycle_modifier_data>
